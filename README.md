@@ -30,12 +30,13 @@ A calculadora suporta as seguintes operações:
 
 2. Execute o projeto:
     ```sh
+    cargo build
     cargo run
     ```
 
 ## Estilo Personalizado
 
-O estilo da interface foi personalizado utilizando a fonte Open Sans e cores específicas para melhorar a experiência do usuário.
+O estilo da interface foi personalizado utilizando a fonte Open Sans e cores específicas presentes em **styles.rs**.
 
 ## Contribuição
 
