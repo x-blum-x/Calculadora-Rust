@@ -1,5 +1,5 @@
 ## Requisitos
-- Garanta que tem instalado Rust lang, e Cargo.
+- Garanta que tenha instalado Rust lang, e Cargo.
 - Se necessário siga a documentação oficial: **https://doc.rust-lang.org/book/ch01-01-installation.html**
 
 ## Descrição dos Arquivos
